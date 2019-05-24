@@ -1,0 +1,34 @@
+#contact {
+    background-color: #ffffff;
+    color: #4aaaa5;
+    border-color: #dddddd;
+    border-bottom: 5px solid #dddddd;
+    padding: 8px 5px;
+    margin: 0 auto;
+    margin-top: 40px;
+    clear: both;
+    width: 75%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.textfield {
+    margin-top: 80px;
+    margin-bottom: 120px;
+    max-height: 960px;
+    width: 75%;
+    margin: 0 auto;
+    overflow: auto;
+    flex: 1 0 auto;
+    clear: both;
+}
+
+fieldset {
+    background-color: #ffffff;
+    border: 0.25px solid #dddddd;
+    margin-bottom: 120px;
+    padding: 5px;
+    overflow: auto;
+    flex: 1 0 auto;
+    clear: both;
+}
