@@ -12,7 +12,7 @@
     font-size: 20px;
 }
 
-.textfield {
+#textfield {
     margin-top: 80px;
     margin-bottom: 120px;
     max-height: 960px;
