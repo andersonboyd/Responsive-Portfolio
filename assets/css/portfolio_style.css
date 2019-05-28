@@ -254,3 +254,10 @@
     background-color: #ffffffe0;
     color: #4aaaa599;
 }
+
+@media screen and (min-width:1200px) {
+    .container {
+        justify-content: space-evenly;
+        align-content: stretch;
+    }
+}
